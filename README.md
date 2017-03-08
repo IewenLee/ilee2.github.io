@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# **Header 1**
-## _Header 2_
+# Header 1
+## Header 2
 ### Header 3
 
 - Bulleted
@@ -25,6 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+Testing font example using the Markdown syntax:
+**March**
+_Testing_
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
