@@ -28,6 +28,9 @@ Syntax highlighted code block
 Testing font example using the Markdown syntax:
 **March**
 _Testing_
+- CEC Design Center:
+1. GitHub
+2. Embed Development
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
